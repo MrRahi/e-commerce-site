@@ -2,9 +2,31 @@
 <html>
 <head>
 <title>Registration</title>
-
+<style>
+	.registrationDiv
+    {
+		width: 400px;
+		margin: auto;
+		background-color:#C0C0C0;
+		padding: 40px;
+		box-shadow: 10px 10px 10px #aaaaaa;
+	}
+	.fields
+    {
+		border-radius: 5px;
+		border-style:none;
+		height: 40px;
+	}
+	.button1
+    {
+		border-radius:5px;
+		height: 40px;
+		width: 80px;
+		background-color:#F5F5DC;
+	}	
+</style>
 </head>
-<body style="background-color:grey;">
+<body style="background-color:#35706a;">
 <div>	
 </div>
 <div class="registrationDiv">
